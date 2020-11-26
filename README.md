@@ -1,5 +1,5 @@
 # Data Analytics Reflect Activity
 
-- My Goals 
+* My Goals 
 
-- Summary Of How do I tackle my career in the future.
+* Summary Of How Do I Tackle My Career In The Future.
